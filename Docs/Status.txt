@@ -1,0 +1,6 @@
+Project status: Not ready
+
+Problems:
+1 Normal cmd execution - only once (2nd cmd fails, no data return)
+2 Design
+3 Fuzzy simbols at data return 
