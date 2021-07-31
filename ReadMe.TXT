@@ -1,7 +1,7 @@
 ﻿TelnetUWP 1.0.0 alpha (Experimental Project for Microsoft 10 Mobile)
 ===================================================================
 
-![TelnetUWP 1.0.0 alpha screenshot](art/art.gif "TelnetUWP 1.0.0 alpha screenshot")
+![TelnetUWP 1.0.0 alpha screenshot](art.gif "TelnetUWP 1.0.0 alpha screenshot")
 
 TelnetUWP app  is open-sourced UWP project.
 My main goal is to do useful UWP variant of Telnet app for Windows 10 Mobile.
