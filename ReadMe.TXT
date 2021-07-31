@@ -1,10 +1,12 @@
-﻿XAPinst/ MicroTelnet 1.0.8 alpha (Experimental Project for Microsoft 10 Mobile)
-================================================================
+﻿TelnetUWP 1.0.0 alpha (Experimental Project for Microsoft 10 Mobile)
+===================================================================
 
-"XAPinst" ("MicroTelnet") app  is open-sourced UWP project.
-My main goal is to do useful GUI for mobile variant of XAP installation , without any PC.
+<img height="600" src="art/art.gif" />
 
-XAPinst solution consists of 2 parts:
+TelnetUWP app  is open-sourced UWP project.
+My main goal is to do useful UWP variant of Telnet app for Windows 10 Mobile.
+
+TelnetUWP solution consists of 2 parts:
 A. Backend (by Fadil Fadz)
 B. Frontend (by ME)
 
@@ -16,6 +18,8 @@ Quick notes:
 
 A. BACKEND
 ----------
+
+See DOCs folder
 
 XapInst.bat  - "background xap installer" (as +1 for/to CMD Injector)
 
@@ -34,8 +38,9 @@ Simply install it by App Installer on your Win10Mobile device :)
 
 Known Problems
 --------------
-In some W10 Phones MicroTelnet cannot connect to localhost directly (internal W10M firewall ganerates this problem). 
+In some W10 Phones TelnetUWP cannot connect to localhost directly (internal W10M firewall generates this problem). 
 For example, I have this problem on my Lumia 950. 
+
 I made 2 reg files:
 fullaccess_on.reg - internal firewall will switched off when importing this reg file and rebooting the phone
 fullaccess_off.reg - internal firewall will switched ON when importing this reg file and rebooting the phone
@@ -45,7 +50,7 @@ fullaccess_off.reg - internal firewall will switched ON when importing this reg 
 Please, help to improve my code (if You know SA, CSharp system coding, etc.). Feel free to poll request.
 
  Github repo here:
- https://github.com/mediaexplorer74/MicroTelnet 
+ https://github.com/mediaexplorer74/TelnetUWP 
 (for feedback, issues discussion, and your pull requests))
 
 CREDITS
